@@ -1,0 +1,4 @@
+package rsk
+
+class tailrec {
+}
